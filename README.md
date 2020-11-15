@@ -1,17 +1,21 @@
-# Minesweeper
+#NianCat-sweeper!
+> A little insight of my abilities in creating short games. Some of which you will recognise though the little twist of humor I added to it.
+For these games, Javascript, HTML and CSS were used.
 
-This challenge has you create a clone of the desktop game Minesweeper:
+## Setup
 
-![Old-school Minesweeper](minesweeper.jpg)
+To get started, clone this repo and then:
 
-Yours will look a little different, but behave in much the same way. The goal is to mark all the mines without setting any off.
+```
+Just open the repo on your code editor to play with the code
+
+OR
+
+From your desktop folder open the HTML file in your browser
+```
 
 
-## A little help?
-
-We don't want you to have to write the whole game. Your primary goal is to learn more about objects and arrays: how to access properties, how to loop through arrays of objects, and so on.
-
-To help out, we've included two JavaScript files which do most of the heavy lifting for you. We _do not_ expect you to understand everything that's in them! In fact, you should be able to complete the whole challenge without even glancing inside them. (If you want to look, they're in the `lib` directory.)
-
-As you develop your program, you should see little hints appear near the top of the browser window. These are designed to guide you through creating your `board` object. The `board` object is used by the provided code to make the rest of the game work.
+## NyanCatSweeper
+![alt text](https://github.com/tatiana-bernon/JavaScript-Game-Carnival/blob/4e622c39217569a502182d9910f23b7c872ce2e0/nyanCatsweeper.png)
+Find my repo [here](https://github.com/tatiana-bernon/NyanCat-Sweeper)
 
